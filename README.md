@@ -1,4 +1,8 @@
-### Hi there 👋
+<div align="center">
+  <a href="">
+    <img width="100px" src="https://raw.githubusercontent.com/danirter/danirter/88dca2005b06acee5088454927cff5c99f1f361e/Forter%20Animated%20Fingerprint.svg">
+  </a>
+</div>
 
 <!--
 **danirter/danirter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
