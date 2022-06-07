@@ -11,13 +11,13 @@
 	.path {
 		stroke-dasharray: 158;
 		stroke-dashoffset: 171;
-		animation: dash 2s cubic-bezier(0.48, 0.04, 0.46, 0.97) infinite alternate ; filter: hue-rotate(200deg);
+		animation: dash 2s cubic-bezier(0.48, 0.04, 0.46, 0.97) infinite alternate ; filter: hue-rotate(100deg);
 	}
 
 	@keyframes dash {
 
 		to {
-			stroke-dasharray: 40; filter: hue-rotate(100deg);
+			stroke-dasharray: 40; filter: hue-rotate(-50deg);
 		}
 	}
 	
