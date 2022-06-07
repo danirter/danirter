@@ -11,7 +11,7 @@
 	.path {
 		stroke-dasharray: 158;
 		stroke-dashoffset: 171;
-		animation: dash 2s cubic-bezier(0.48, 0.04, 0.46, 0.97) infinite alternate ; filter: hue-rotate(150deg);
+		animation: dash 2s cubic-bezier(0.48, 0.04, 0.46, 0.97) infinite alternate ; filter: hue-rotate(100deg);
 	}
 
 	@keyframes dash {
