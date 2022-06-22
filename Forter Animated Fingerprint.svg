@@ -17,7 +17,7 @@
 	@keyframes dash {
 
 		to {
-			stroke-dasharray: 40; filter: hue-rotate(-50deg);
+			stroke-dasharray: 40; filter: hue-rotate(0deg);
 		}
 	}
 	
